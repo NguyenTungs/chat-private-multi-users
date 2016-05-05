@@ -1,0 +1,28 @@
+{
+  "name": "chat-private-multi-users",
+  "version": "1.0.0",
+  "description": "Chat Private Multi Users",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NguyenTungs/chat-private-multi-users.git"
+  },
+  "keywords": [
+    "chat",
+    "socket.io",
+    "io",
+    "multi"
+  ],
+  "author": "tungns",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NguyenTungs/chat-private-multi-users/issues"
+  },
+  "homepage": "https://github.com/NguyenTungs/chat-private-multi-users#readme",
+  "dependencies": {
+    "socket.io": "^1.4.6"
+  }
+}
